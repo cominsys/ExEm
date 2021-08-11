@@ -12,10 +12,11 @@ Cite:
 ```bib
 @article{nikzad2021exem,
   title={ExEm: Expert embedding using dominating set theory with deep learning approaches},
-  author={Nikzad-Khasmakhi, Narjes and Balafar, Mohammadali and Feizi-Derakhshi, M Reza and Motamed, Cina},
+  author={Nikzad-Khasmakhi, Narjes and Balafar, Mohammadali and Feizi-Derakhshi, Mohammad-Reza and Motamed, Cina},
   journal={Expert Systems with Applications},
   volume={177},
   pages={114913},
   year={2021},
+  doi={10.1016/j.eswa.2021.114913},
   publisher={Elsevier}
 }
